@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building web extensions.
-- 🌱 I’m currently learning a lot about NixOS.
+- ✨ Most of my work is in private repos, so there's not a ton to see here at the moment.
+- 🌱 Most of my public work revolves around NixOS.
 
 <!--
 **hyperparabolic/hyperparabolic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
